@@ -1,0 +1,45 @@
+{
+ "units": [
+  {"id": "ln", "name": "Leo/need", "short": "レオニ", "color": "#4455DD"},
+  {"id": "mmj", "name": "MORE MORE JUMP！", "short": "モモジャン", "color": "#88DD44"},
+  {"id": "vbs", "name": "Vivid BAD SQUAD", "short": "ビビバス", "color": "#EE1166"},
+  {"id": "ws", "name": "ワンダーランズ×ショウタイム", "short": "ワンダショ", "color": "#FF9900"},
+  {"id": "n25", "name": "25時、ナイトコードで。", "short": "ニーゴ", "color": "#884499"}
+ ],
+ "characters": [
+  {"id": "ln_miku", "unit": "ln", "name": "初音ミク", "short": "ミク", "label": "レオミク", "base": "miku", "color": "#33CCBB"},
+  {"id": "ln_luka", "unit": "ln", "name": "巡音ルカ", "short": "ルカ", "label": "レオルカ", "base": "luka", "color": "#FFBBCC"},
+  {"id": "ichika", "unit": "ln", "name": "星乃一歌", "short": "一歌", "color": "#33AAEE"},
+  {"id": "saki", "unit": "ln", "name": "天馬咲希", "short": "咲希", "color": "#FFDD44"},
+  {"id": "honami", "unit": "ln", "name": "望月穂波", "short": "穂波", "color": "#EE6666"},
+  {"id": "shiho", "unit": "ln", "name": "日野森志歩", "short": "志歩", "color": "#BBDD22"},
+
+  {"id": "mmj_miku", "unit": "mmj", "name": "初音ミク", "short": "ミク", "label": "モモミク", "base": "miku", "color": "#33CCBB"},
+  {"id": "mmj_rin", "unit": "mmj", "name": "鏡音リン", "short": "リン", "label": "モモリン", "base": "rin", "color": "#FFCC11"},
+  {"id": "minori", "unit": "mmj", "name": "花里みのり", "short": "みのり", "color": "#FFCCAA"},
+  {"id": "haruka", "unit": "mmj", "name": "桐谷遥", "short": "遥", "color": "#99CCFF"},
+  {"id": "airi", "unit": "mmj", "name": "桃井愛莉", "short": "愛莉", "color": "#FFAACC"},
+  {"id": "shizuku", "unit": "mmj", "name": "日野森雫", "short": "雫", "color": "#99EEDD"},
+
+  {"id": "vbs_miku", "unit": "vbs", "name": "初音ミク", "short": "ミク", "label": "ビビミク", "base": "miku", "color": "#33CCBB"},
+  {"id": "vbs_len", "unit": "vbs", "name": "鏡音レン", "short": "レン", "label": "ビビレン", "base": "len", "color": "#FFEE11"},
+  {"id": "vbs_meiko", "unit": "vbs", "name": "MEIKO", "short": "MEIKO", "label": "ビビメイコ", "base": "meiko", "color": "#DD4444"},
+  {"id": "kohane", "unit": "vbs", "name": "小豆沢こはね", "short": "こはね", "color": "#FF6699"},
+  {"id": "an", "unit": "vbs", "name": "白石杏", "short": "杏", "color": "#00BBDD"},
+  {"id": "akito", "unit": "vbs", "name": "東雲彰人", "short": "彰人", "color": "#FF7722"},
+  {"id": "toya", "unit": "vbs", "name": "青柳冬弥", "short": "冬弥", "color": "#0077DD"},
+
+  {"id": "ws_miku", "unit": "ws", "name": "初音ミク", "short": "ミク", "label": "ダショミク", "base": "miku", "color": "#33CCBB"},
+  {"id": "ws_kaito", "unit": "ws", "name": "KAITO", "short": "KAITO", "label": "ダショカイト", "base": "kaito", "color": "#3366CC"},
+  {"id": "tsukasa", "unit": "ws", "name": "天馬司", "short": "司", "color": "#FFBB00"},
+  {"id": "emu", "unit": "ws", "name": "鳳えむ", "short": "えむ", "color": "#FF66BB"},
+  {"id": "nene", "unit": "ws", "name": "草薙寧々", "short": "寧々", "color": "#33DD99"},
+  {"id": "rui", "unit": "ws", "name": "神代類", "short": "類", "color": "#BB88EE"},
+
+  {"id": "n25_miku", "unit": "n25", "name": "初音ミク", "short": "ミク", "label": "ニゴミク", "base": "miku", "color": "#33CCBB"},
+  {"id": "kanade", "unit": "n25", "name": "宵崎奏", "short": "奏", "color": "#BB6688"},
+  {"id": "mafuyu", "unit": "n25", "name": "朝比奈まふゆ", "short": "まふゆ", "color": "#8888CC"},
+  {"id": "ena", "unit": "n25", "name": "東雲絵名", "short": "絵名", "color": "#CCAA88"},
+  {"id": "mizuki", "unit": "n25", "name": "暁山瑞希", "short": "瑞希", "color": "#DDAACC"}
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "title": "チェックシート",
+ "github": {"owner": "Guyuangel", "repo": "prsk-dashboard", "branch": "main", "progressPath": "data/progress.json"},
+ "tree": [
+  {
+   "id": "prsk",
+   "title": "プロジェクトセカイ",
+   "description": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+   "characters": "data/prsk/characters.json",
+   "children": [
+    {
+     "id": "mysekai",
+     "title": "マイセカイチェックリスト",
+     "description": "家具の近くにキャラを置くと発生する会話の回収状況。",
+     "type": "mysekai-conversations",
+     "data": "data/prsk/mysekai/conversations.json",
+     "options": {"expPerConversations": 10, "expCap": 200}
+    }
+   ]
+  }
+ ]
+}
