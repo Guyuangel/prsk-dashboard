@@ -22,7 +22,7 @@ export function summarize(data, { isChecked }) {
 
 export function render(root, ctx) {
   const { data, characters, checklist } = ctx;
-  const opts = { expPerConversations: 10, expCap: 200, ...checklist.options };
+  const opts = { expPerConversations: 10, expCap: 400, ...checklist.options };
   const chars = new Map(characters.characters.map((c, i) => [c.id, { ...c, order: i }]));
   const units = characters.units;
   const label = (id) => chars.get(id)?.label || chars.get(id)?.short || id;

@@ -14,7 +14,7 @@
      "description": "家具の近くにキャラを置くと発生する会話の回収状況。",
      "type": "mysekai-conversations",
      "data": "data/prsk/mysekai/conversations.json",
-     "options": {"expPerConversations": 10, "expCap": 200}
+     "options": {"expPerConversations": 10, "expCap": 400}
     }
    ]
   }
