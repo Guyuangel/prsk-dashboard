@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T20:20:44.156Z",
+ "updatedAt": "2026-10-03T08:09:21.959Z",
  "checklists": {
   "prsk/mysekai": [
    "f0006:mmj_miku",
@@ -91,6 +91,9 @@
    "f0071:mafuyu",
    "f0071:n25_miku",
    "f0074:n25_miku",
+   "f0102:mafuyu",
+   "f0102:mizuki",
+   "f0102:mizuki+n25_miku",
    "f0139:mizuki",
    "f0155:ena",
    "f0155:mafuyu",
@@ -99,6 +102,9 @@
    "f0160:akito+vbs_meiko",
    "f0160:n25_miku",
    "f0163:vbs_len+vbs_meiko",
+   "f0165:mafuyu",
+   "f0165:mafuyu+n25_miku",
+   "f0165:n25_miku",
    "f0203:ena",
    "f0203:mafuyu",
    "f0203:n25_miku",
@@ -122,6 +128,9 @@
    "f0243:vbs_miku",
    "f0250:mizuki",
    "f0250:n25_miku",
+   "f0295:mafuyu+mizuki",
+   "f0296:mafuyu+n25_miku",
+   "f0297:mizuki+n25_miku",
    "f0299:airi+mmj_miku",
    "f0299:minori+mmj_miku",
    "f0302:akito+vbs_meiko",
@@ -137,7 +146,10 @@
    "f0305:rui+ws_kaito",
    "f0305:rui+ws_miku",
    "f0305:tsukasa+ws_miku",
-   "f0305:ws_kaito+ws_miku"
+   "f0305:ws_kaito+ws_miku",
+   "f0308:mafuyu+mizuki",
+   "f0308:mafuyu+n25_miku",
+   "f0308:mizuki+n25_miku"
   ]
  }
 }
